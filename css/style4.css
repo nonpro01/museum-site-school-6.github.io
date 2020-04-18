@@ -1,0 +1,147 @@
+.first {
+    background-color: #dbbc95;
+    border-radius: 0px 0px 20px 20px;
+}
+
+.second {
+    padding-top: 30px;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+
+
+.third {
+    background-color: #e8ceae;
+    border-radius: 20px/20px;
+}
+
+
+.fifth {
+    padding-top: 80px;
+    padding-left: 100px;
+}
+
+.sixth {
+    padding-left: 90px;
+    padding-right: 90px;
+}
+
+.seventh {
+    padding-left: 100px;
+    padding-top: 25px;
+}
+
+
+
+.tenth {
+    background-color: #dbbc95;
+    border-radius: 20px 20px 0px 0px;
+}
+
+.eleventh {
+    font-weight: 700;
+    padding-bottom: 10px;
+}
+
+.twelfth {
+    background-color: #abd2db;
+    margin-left: 50px;
+    margin-top: 30px;
+
+}
+
+.thirteenth {
+    background-color: peru;
+}
+
+p {
+    text-indent: 25px;
+    font-family: serif;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.fourteenth {
+    font-family: serif;
+    font-weight: bold;
+    font-size: 20px;
+    padding-left: 90px;
+    padding-right: 90px;
+}
+
+.fifteenth {
+    list-style-type: none;
+}
+
+a {
+    text-decoration: none;
+}
+
+
+.one {
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.two {
+    display: flex;
+    justify-content: center;
+    margin-top:50px;
+    margin-bottom: 50px;
+}
+
+.three {
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+    margin-bottom: 50px;
+
+}
+
+.four {
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.five {
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.six {
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+
+.seven {
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+
+.eight {
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+
+.nine {
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+    padding-bottom: 250px;
+}
+

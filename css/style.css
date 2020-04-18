@@ -1,0 +1,64 @@
+.first {
+    padding-left: 100px;
+    padding-right: 100px;
+    display: flex;
+    justify-content: center;
+}
+
+.second {
+    display: flex;
+    justify-content: center;
+    padding-bottom:200px;
+    padding-top:50px;
+}
+
+p {
+    font-family: serif;
+    font-weight: bold;
+    font-size: 30px;
+}
+
+
+
+.fifth {
+    background-color: #dbbc95;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    border-radius: 0 0 20px 20px;
+    
+}
+
+.third {
+    border-radius: 20px 20px 0 0;
+    background-color: #dbbc95;
+}
+
+.six {
+    border-radius: 20px/20px;
+    background-color: #e8ceae;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+li {
+    list-style-type: none;
+}
+
+.seventh {
+    padding-bottom: 10px;
+    font-weight: 700;
+}
+
+.eighth {
+    font-weight: 700;
+    padding-bottom: 10px;
+}
+
+.ninth {
+    background-color: peru;
+    ;
+}
+
+a {
+    text-decoration: none;
+}

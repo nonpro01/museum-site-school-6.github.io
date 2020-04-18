@@ -1,0 +1,89 @@
+.first {
+    background-color: #e8ceae;
+}
+
+.seventh {
+    background-color:#abd2db;
+    margin-left: 50px;
+    margin-top: 30px;
+}
+
+.second {
+    border-radius: 20px 20px 20px 20px;
+    background-color: #e8ceae;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding-bottom: 150px;
+
+}
+
+.third {
+    display: flex;
+    padding-top: 50px;
+    padding-left: 100px;
+    padding-right: 100px;
+
+
+
+}
+
+p {
+    text-indent: 25px;
+    font-family: serif;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.eighth {
+    display: flex;
+
+    padding-left: 100px;
+    padding-right: 100px;
+}
+
+.fourth {
+    background-color: #e8ceae;
+    display: flex;
+    justify-content: center;
+    padding-bottom: 50p;
+    padding-top:25px;
+}
+
+.fifth {
+    background-color: #dbbc95;
+    border-radius: 20px 20px 0px 0px;
+}
+
+.ninth {
+    background-color: peru;
+}
+
+h {
+    padding-top: 30px;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+
+.tenth {
+    background-color: #dbbc95;
+    border-radius: 0px 0px 20px 20px;
+}
+
+.too {
+    padding-top: 30px;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+
+li {
+    list-style-type: none;
+}
+
+.sixth {
+    font-weight: 700;
+    padding-bottom: 10px;
+}
+a {
+    text-decoration: none;
+}
