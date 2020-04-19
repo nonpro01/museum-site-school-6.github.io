@@ -1,1 +1,1 @@
-# nonpro01.github.iomuseum-site-school-6
+# museum-site-school-6.github.io
